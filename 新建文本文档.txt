@@ -1,0 +1,2 @@
+$ git config --global user.name "1552341249"
+$ git config --global
